@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dulman turn'd doctor, councelling his brother Dunce how to peerk to preferment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81820</idno>
+            <idno type="STC">Wing D2518</idno>
+            <idno type="STC">Thomason E432_9</idno>
+            <idno type="STC">ESTC R206144</idno>
+            <idno type="EEBO-CITATION">99865322</idno>
+            <idno type="PROQUEST">99865322</idno>
+            <idno type="VID">117561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117561)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dulman turn'd doctor, councelling his brother Dunce how to peerk to preferment.</title>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "March 14 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:117561:1" rendition="simple:additions"/>
+            <head>DULMAN TURN'D DOCTOR, Councelling his brother <hi>Dunce</hi> how to peerk to preferment.</head>
+            <div type="to_the_reader">
+               <head>To the Reader only thus much.</head>
+               <lg>
+                  <l>
+                     <hi>REad on but laugh not, till thy heart do ake,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet grieve and groane for</hi> Philomuſus <hi>ſake,</hi>
+                  </l>
+                  <l>
+                     <hi>This locoſerious Tragecomicall</hi>
+                  </l>
+                  <l>
+                     <hi>Rapture, is mirthfull, though Satyricall.</hi>
+                  </l>
+                  <l>
+                     <hi>Some wit with ſollid truth is here ſo mixt,</hi>
+                  </l>
+                  <l>Domocritus <hi>with</hi> Heroclitus <hi>ſixt</hi>
+                  </l>
+                  <l>
+                     <hi>That ſweete and ſowre, ſalt ſuger in this ſcroule</hi>
+                  </l>
+                  <l>
+                     <hi>Is Phyſiek for the times, thy body, ſoule.</hi>
+                  </l>
+                  <l>
+                     <hi>Tooke as a Paper Purge for one poore penny,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy ſquinzees may he curde, if thou have anſ.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="body_of_poem">
+               <pb n="2" facs="tcp:117561:2"/>
+               <head>D<g ref="char:V">Ʋ</g>IMANS documents to his bro<g ref="char:EOLhyphen"/>ther D<g ref="char:V">Ʋ</g>NCE.</head>
+               <lg>
+                  <l>POore <hi>Dunce</hi> my friend, familiar, and ſworn brother</l>
+                  <l>Whom I more largely love, then any other,</l>
+                  <l>How ere thou nick-nam'd be Dunce, Dolt, Foole, Sor,</l>
+                  <l>Simplicius block, blind-<hi>aſinus</hi> and what not;</l>
+                  <l>For whoſe juſt brands I greive, thou well mayſt thinke</l>
+                  <l>As to ſe Geeſe goe barefoote, Ducks to drinke,</l>
+                  <l>Yet thou art dear, to me as Aſſe to Mule,</l>
+                  <l>As Gooſe to Gander, Buffon to Knave Foole.</l>
+                  <l>
+                     <hi>Gnato</hi> to <hi>Thraſo,</hi> Woodcock to a widgyon,</l>
+                  <l>
+                     <hi>Pyannat</hi> in a Rochet to a Pigion.</l>
+                  <l>And for thy good, my braines I do ſpung yet,</l>
+                  <l>To knock into thy head ſome little wit.</l>
+                  <l>Hence heare and heed, my nocuments for thy good,</l>
+                  <l>Lodge in thy noddle and right underſtood,</l>
+                  <l>My Cannons and my cautions, (tho Sneak, Snake,</l>
+                  <l>Or Peſt thou be) they for thy good may make.</l>
+                  <l>Firſt then, thoughtimes be Luxate out of tune,</l>
+                  <l>As fretts in Muſicks, Cuckowes notes in June,</l>
+                  <l>Yet ſince that Medlars nere be ripe, till ror,</l>
+                  <l>Meddle not with them for they be too hot.</l>
+                  <l>When Pellicans flap at ſlames to ſave their brood,</l>
+                  <l>They but their owne wings ſcortch and do no good,</l>
+                  <pb n="3" facs="tcp:117561:2"/>
+                  <l>When ought amiſſe thou ſpieſt, looke through thy fin<g ref="char:EOLhyphen"/>gers</l>
+                  <l>And ſeale thy lips, cloſe as Cathedrall ſingers,</l>
+                  <l>(Silentians now) a Turkiſh mute,</l>
+                  <l>Or a dumb Oxe, with worſt times now beſt ſuite,</l>
+                  <l>Wincke (Lyon like) in pollicy yet wake,</l>
+                  <l>Se and ſay nought, though mad worke many make,</l>
+                  <l>Sir and be ſilent and ſay nought but Mum,</l>
+                  <l>Its the road way to make a woman dumb,</l>
+                  <l>Though in Scold-Allia, Giglitania borne,</l>
+                  <l>Schiſm Allia, or Tub Allia Gifts to ſcorne,</l>
+                  <l>As <hi>Micholl</hi> once mockt <hi>David, Jſhmael</hi>
+                  </l>
+                  <l>
+                     <hi>Sarahs</hi> bleſt ſon: Heire to Gods <hi>Iſrael.</hi>
+                  </l>
+                  <l>Looke at moſt men like Lyons in a grate,</l>
+                  <l>Yet come not in their pawes at any rate.</l>
+                  <l>Live to thy ſelfe, and lurke in <hi>Cacus</hi> Denn,</l>
+                  <l>Or in the Cyinks Tub, avoid moſt men,</l>
+                  <l>With <hi>Petrark, Tully,</hi> 
+                     <note n="*" place="margin">In Tuſ<g ref="char:EOLunhyphen"/>culano</note> pent in Country Farms</l>
+                  <l>(As our late <hi>Lipſius,</hi> 
+                     <note n="*" place="margin">In An<g ref="char:EOLhyphen"/>gulo a<g ref="char:EOLhyphen"/>gri.</note> thou maiſt ſhun moſt harms</l>
+                  <l>Ere any thou call friend, drink with him Malt,</l>
+                  <l>
+                     <hi>Dutch</hi> like well watered with him eate much ſalt,</l>
+                  <l>
+                     <hi>Ioab</hi> for <hi>Ionathan,</hi> yea Aſpe or Viper,</l>
+                  <l>Leaſt hugde thou dance, too late without a Piper.</l>
+                  <l>Wed not with Courtizan, nor ſcold, nor ſlut,</l>
+                  <l>To Horne thy head, thy heart vex, baine thy gut.</l>
+                  <l>But if I may perſwade the (as once blocks</l>
+                  <l>Daunc'r after <hi>Orpheus)</hi> fly ſtom Wedlocks locks</l>
+                  <l>Thou art a ſimple, ſtand and keepe thy ground,</l>
+                  <l>Be not ſo ſimple yet, as to compound,</l>
+                  <l>Staggs, Bucks, and Hinds on Mountains will live free,</l>
+                  <l>Rather then ſadled Horſe or Aſſe to be,</l>
+                  <l>From Women ſteering then, as <hi>Syrens</hi> Rocks</l>
+                  <l>For feare of after claps of after knocks</l>
+                  <pb n="4" facs="tcp:117561:3"/>
+                  <l>If thou with men wilt walke, as penny wiſe,</l>
+                  <l>For ſuddain riſing learne to temporize,</l>
+                  <l>For to prevent Times ſhocks, are rocks and dolours</l>
+                  <l>Polip<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ze Camelionize into all colours,</l>
+                  <l>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt <hi>Proteus</hi> like, Hares Hedg-hogs, wit do ſhow,</l>
+                  <l>Changing their formes as every wind doth blow,</l>
+                  <l>More meale to milnes, more Fiſh to net this brings,</l>
+                  <l>Then begging in the goulden times of Kings,</l>
+                  <l>Or <hi>Pirchus, Caeſar</hi> and great <hi>Alexander,</hi>
+                  </l>
+                  <l>Who rich in Hopes, inriched each Commander.</l>
+                  <l>As Players then do cun their Cewes by hart,</l>
+                  <l>Smdy the gainfull gnatonizing Art,</l>
+                  <l>But above all, for place, grace, gold and droſſe,</l>
+                  <l>Commence Dunce Doctor quickly at dawes croſſe,</l>
+                  <l>And though the ſpirit of a vane deluſion,</l>
+                  <l>Haunt the like <hi>Ahabs</hi> prophets to confuſion,</l>
+                  <l>Pretend Enthuſiaſmes, Raptures, and the ſpirit,</l>
+                  <l>This more then learned Arts, wit, worth demerrit,</l>
+                  <l>Above all principles of <hi>Matchavil,</hi>
+                  </l>
+                  <l>All <hi>Guſmans</hi> wiles, works of <hi>Achithophel,</hi>
+                  </l>
+                  <l>All cheating cunny catching Cards and Dice,</l>
+                  <l>Monopolizing gets the in a trice.</l>
+                  <l>Reputes Friends favours, duſt both red and yellow,</l>
+                  <l>If thou canſt ſchiſmes broach from thy Hogſhead ſhal<g ref="char:EOLhyphen"/>low</l>
+                  <l>And though thou beeſt but a fantaſtick Elſe,</l>
+                  <l>Yet this will get the praiſe, and ſilver pelfe</l>
+                  <l>And plump thy panch with wines, and belly cheare</l>
+                  <l>As if thou feaſted by Lucullus were;</l>
+                  <l>Yea thou ſhalt be eſteemde the eigth wiſe man,</l>
+                  <l>Learnd Doctor worth a Gooſe, and thou a Swann,</l>
+                  <l>As rare as ever ſung in Thames or Po.</l>
+                  <l>All Paganiſh learning thou wilſt out ſhine ſo.</l>
+                  <pb n="5" facs="tcp:117561:3"/>
+                  <l>No Gypſie, Wizard, Witch Nicromantizer,</l>
+                  <l>No Grand Iropoſter ſhall be held a wiſer,</l>
+                  <l>Lurke but in ſtables, corners, barnes, blind cellers,</l>
+                  <l>Thou ſhalt moe Clyents have then fortnne-tellers,</l>
+                  <l>No jugling Jeſuites wonder-working Fryers,</l>
+                  <l>No miracle minting, monks maſſe, (aſſe) Prieſts lyers,</l>
+                  <l>No Phyſiogmoniſts, prophets Magitians</l>
+                  <l>Quack-ſalvers Empericks, Mount-banks cald Phyſitians</l>
+                  <l>And none by Palmſtry who gull poore ſouls,</l>
+                  <l>Shall be cry'd up, by gandarized <hi>Noules,</hi>
+                  </l>
+                  <l>Above poore the, a witleſſe worthleſſe body,</l>
+                  <l>Who playſt amongſt them all thy games at noddy,</l>
+                  <l>And ever when thou robdſt, or winſt at hitter,</l>
+                  <l>Thou Knave oath clubs turnes up, none doth it fitter,</l>
+                  <l>To ſwell bigg as a Preacher (we I nigh burſt</l>
+                  <l>Like <hi>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſops</hi> Frog) if that thou have a luſt.</l>
+                  <l>This above <hi>Kellies</hi> Phyloſophick ſtone,</l>
+                  <l>Or <hi>Fortunatus</hi> purſe: is all in one,</l>
+                  <l>As high as Pewes and Pulpits to advance</l>
+                  <l>Thy blockiſh Ignorance, proud arrogance,</l>
+                  <l>In Campes in Countries Villages, and Cities</l>
+                  <l>Whilſt <hi>Phylomuſus,</hi> though that he all wit is</l>
+                  <l>Of <hi>Dunce</hi> and <hi>Dulman</hi> ſhall be ſcornd ſans pitties,</l>
+                  <l>Weele make him ſigh Elegiakes, dolefull ditties,</l>
+                  <l>Hang down his head like to a bulruſh weake,</l>
+                  <l>Or Cock beate out o'th pit, who ſcarce can creake,</l>
+                  <l>Yea he ſhall ſe a moore-cock, poore cock, baſe</l>
+                  <l>Wiſe as a Woodcock, peerkt up to his place,</l>
+                  <l>By ſome wiſe as himſelf, who for him ſtrike</l>
+                  <l>With armed power, from bodkin to halfe Pike:</l>
+                  <l>Thou and I will be joviall like mad Greekes,</l>
+                  <l>Spurning wits Arts, and learning like young leekes,</l>
+                  <l>No more eſteeming Gifts, in beſt Devine,</l>
+                  <pb n="6" facs="tcp:117561:4"/>
+                  <l>Then Doggs do hony combes, or pure pearles ſwine,</l>
+                  <l>Whil'ſt <hi>Philomuſus</hi> ſhall out mourne even Swanns</l>
+                  <l>Doves, neſt rob'd Niti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gals and Pellicans,</l>
+                  <l>And <hi>Dowlands Lachrimae</hi> ſing with ſad cheares,</l>
+                  <l>Or <hi>Ovids</hi> Niobe diſſolvd to reares,</l>
+                  <l>His gifts diſgraced, ſilenced his parts</l>
+                  <l>Logicke Philoſophy and the liberall Arts</l>
+                  <l>All Myſtick Sciences deepe and profound,</l>
+                  <l>To profound Jgnorance, ſhall now give grounds;</l>
+                  <l>Yea Elocurion memory quick wit,</l>
+                  <l>This Curtian gulph ſhall ſwallow up each whit,</l>
+                  <l>Greek, Hebrew, Lattine, tongues, and powerfull zeale,</l>
+                  <l>Hſtory Theology ſhall be held a ſweale</l>
+                  <l>But of a Candle, or a Candles ſnuffe</l>
+                  <l>Puſt out: all tooke Tobacco like in puffe,</l>
+                  <l>By us whoſe zeales do boile, like ſcums in por,</l>
+                  <l>In Ignorance wee have a goodly lor,</l>
+                  <l>But in a ſpirit Eutopean far the more,</l>
+                  <l>Theſe two the Goddeſſes be which we adore,</l>
+                  <l>With prieſts of <hi>Priapus</hi> and <hi>Venus</hi> Nuns,</l>
+                  <l>(We ſleight theſe Artiſts, and their paper Guns.</l>
+                  <l>Theſe our <hi>Dianaes</hi> great <hi>Apolloes</hi> be,</l>
+                  <l>
+                     <hi>Pallas, Minerva,</hi> and the Muſes we</l>
+                  <l>Scoffe as meere ſcare-crowe's in a cherry tree,</l>
+                  <l>By Rattles, Horſes frighted are, not we</l>
+                  <l>Arts Idoles were in Biſhop <hi>Quondams</hi> daies,</l>
+                  <l>Now Almanacks paſt date, to <hi>Mars</hi> be praiſe,</l>
+                  <l>Webetter web will ſpin with Rock and Spindle,</l>
+                  <l>Without all yearne, then Artiſts with wits nimble,</l>
+                  <l>We do but turne the cock our waters run,</l>
+                  <l>Our Doctrines drop from Clouds: the Spirit's our ſun,</l>
+                  <l>O worthy brother hold we but to that,</l>
+                  <l>Then like to paper Squibs we ſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe their char,</l>
+                  <pb facs="tcp:117561:4"/>
+                  <l>And to indoctrinare ſomething more free,</l>
+                  <l>Thy dull plumbeous ceribroſitie</l>
+                  <l>Be ſure to hit the way to Dunſtable,</l>
+                  <l>Then tho a Scavenger, or Conſtable,</l>
+                  <l>Borcher or taylor, from the needle train'd,</l>
+                  <l>To the ſharpe pike thou haſt a trade retain'd,</l>
+                  <l>Will hold thy head up higher, then all merrit,</l>
+                  <l>If thou can'ſt bravely brag thou haſt the ſpirit,</l>
+                  <l>(Though but of <hi>Iezebels</hi> prophets: <hi>Lucifer)</hi>
+                  </l>
+                  <l>This will advance the, place the, grace the farr.</l>
+                  <l>My doubty Dunce, coine credit worſhip both,</l>
+                  <l>To gaine, all ſpiried errours (though meere froath)</l>
+                  <l>As <hi>Damocles</hi> did <hi>Dioniſius</hi> ſpittle,</l>
+                  <l>Lick them as <hi>Bauline,</hi> this will the gaine, no little</l>
+                  <l>Exroll <hi>Paus</hi> pipe as <hi>Midas</hi> did of old,</l>
+                  <l>Thine Aſſes eares may ſo be tipt with gold,</l>
+                  <l>Say <hi>Paetus</hi> daughters be more faire, more wiſe</l>
+                  <l>Then <hi>Iun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> its the only way to riſe,</l>
+                  <l>Cry that poore preaching Pedlars better ware</l>
+                  <l>Vent then rich Merchants, this will make the rare.</l>
+                  <l>But cheif if any vent, the leaſt pure wit,</l>
+                  <l>Riddle or hiſtory modeſt Ieaſt, break ſit:</l>
+                  <l>(Though <hi>Sampſon</hi> and <hi>Elias</hi> did the ſame)</l>
+                  <l>Cloſe ſting them yet, they and their wirs, proclaime</l>
+                  <l>As froath, loſe, vaine: where thou can'ſt, not do like,</l>
+                  <l>Barke, bite, detract, calumniate diſlike,</l>
+                  <l>Sneakes, ſnakes, in blacks, dyde blocks, can aemulate</l>
+                  <l>And teeth ſhow, where they cannot imitate.</l>
+                  <l>Say that all Churches be but ſleepled ſtones</l>
+                  <l>Except in corners caſt, mongſt holy one</l>
+                  <l>Learned Tub-tatlers, and inſpirde barn-bablers,</l>
+                  <l>This will the grace amongſt plebean ſquablers,</l>
+                  <l>Bray what thou wilt, more then Cumanus Aſſe,</l>
+                  <l>But in a Lyons skinne, withall to paſſe</l>
+                  <pb facs="tcp:117561:5"/>
+                  <l>For Lamb or Sheepe tho like a Fox too badd</l>
+                  <l>Thou ſmell) in a white Lambs skinne yet be clad,</l>
+                  <l>For thou wilt nere effect thine ends in evill,</l>
+                  <l>Unleſſe thou ſeemſt an Angell, or white Devill,</l>
+                  <l>So in Religious Maskes, broach plots from hell,</l>
+                  <l>Like <hi>Herod Iſhmaell Iudas Iezabel,</hi>
+                  </l>
+                  <l>Cheif cloake all ſects ſchiſmes, peſts with faire pretence</l>
+                  <l>Of Liberty for ſooth of conſcience</l>
+                  <l>So the Iews Thalmand, Alchoran of Turks,</l>
+                  <l>And popiſh Maſſe, may further thy worſt works</l>
+                  <l>Obſerve all humours; but reprove them nor,</l>
+                  <l>For then ſome kicking heeles full well I wor,</l>
+                  <l>Wert thou a <hi>Paul,</hi> would ſpurne the out of place</l>
+                  <l>(As Gadarens did Chriſt) would hate the, <hi>Barrabas</hi> grace</l>
+                  <l>Deſart lies dead, the way to riſe is flatter,</l>
+                  <l>To fall is truth Crowes will do more then charten</l>
+                  <l>Even picke out eyes of thoſe, their neſts who ſpoile</l>
+                  <l>
+                     <hi>Michaes</hi> and <hi>Labans</hi> rore, and keepe ſtrange coile</l>
+                  <l>For Idols refr; for Houſhold Gods not Goods</l>
+                  <l>Pagans have hazzarded their lives and bloods;</l>
+                  <l>Therefore deare Dunce to ſleepe in thy warme skin</l>
+                  <l>No Schiſme tax, tho hell harched nor no ſin.</l>
+                  <l>Boyes will adore that Maſter as half God,</l>
+                  <l>VVho caſts away both Ferula and Rod,</l>
+                  <l>And liberty gives to Iack to ſport with Gill,</l>
+                  <l>To play the wantons, and do what they will,</l>
+                  <l>Once get a Chriſt and then keepe Holyday,</l>
+                  <l>Pure ſoules it is the fleſh that ſins not they.</l>
+                  <l>And yet I know without a Chriſt poſſeſt,</l>
+                  <l>In body ſpirit ſoule none can be bleſt,</l>
+                  <l>Our Brother <hi>Mahomet,</hi> in his ſect thus thrives</l>
+                  <l>Allowing luſts, wine, weomen many wives</l>
+                  <l>And ſo ſhall we: well brother cunn your Cew</l>
+                  <l>Now taught, and till we meere againe adew.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
